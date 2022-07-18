@@ -17,5 +17,5 @@
   
 - 🎓 Computer Science student at Univali, 4º period
 - 💻 I'm currently a Software Developer Intern
-- 📚 I'm currently Studying HTML/CSS/JavaScript
-- 🤝 PT-ENG
+- 📚 Currently I am continuously studying HTML, CSS, JavaScript, Node.JS and React JS
+- 🗣 PT-ENG
