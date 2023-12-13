@@ -17,7 +17,7 @@
   <a href="https://www.linkedin.com/in/luiz-carlos-goulart" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
   
-- 🎓 Computer Science student at Univali, 7º period
-- 💻 I'm currently a Software Developer Intern
+- 🎓 Computer Science student at Univali, 8º period
+- 💻 I'm currently a Junior Software Developer
 - 📚 Currently I am continuously studying HTML, CSS, JavaScript, Node.JS and React JS
 - 🗣 PT-ENG
