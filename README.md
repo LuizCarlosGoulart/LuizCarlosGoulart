@@ -4,9 +4,7 @@
   <img align="center" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
   -
   <img align="center" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-
-  <img align="center" height="50" width="40" src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" />
-
+  -
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/854105018545340429/899835318461693952/Gif.gif">
   
 </div>
